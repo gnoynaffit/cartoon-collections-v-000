@@ -1,4 +1,4 @@
-def roll_call_dwarves(array)#code your agruement here
+def roll_call_dwarves(array)# code your agruement here
   i = 0
   while i < array.length
     puts "#{i + 1}. #{array[i]}"
